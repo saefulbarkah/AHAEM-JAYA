@@ -93,7 +93,7 @@ button:focus,
   display: -moz-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  border: 1px solid #ee3131;
+  border: 1px solid #ff352d;
   font-family: "Dosis", sans-serif;
   position: relative;
   z-index: 2;
@@ -154,7 +154,7 @@ button:hover {
 }
 .download-btn a i {
   float: right;
-  color: #ee3131;
+  color: #ff352d;
   font-size: 30px;
 }
 
@@ -183,7 +183,7 @@ section,
   left: 0;
   width: 60px;
   height: 2px;
-  background: #ee3131;
+  background: #ff352d;
 }
 
 .column-title,
@@ -203,7 +203,7 @@ section,
   left: 0;
   width: 60px;
   height: 2px;
-  background: #ee3131;
+  background: #ff352d;
 }
 .column-title small,
 .column-title-sm small {
@@ -242,7 +242,7 @@ section,
 
 /* Background */
 .highlight {
-  background-color: #ee3131 !important;
+  background-color: #ff352d !important;
 }
 
 /* BG Overlay */
@@ -270,7 +270,7 @@ section,
 }
 
 .bg-red {
-  background-color: #ee3131;
+  background-color: #ff352d;
 }
 
 /* List ul ol */
@@ -310,7 +310,7 @@ section,
 .check-list li:before {
   content: "\f00c";
   font-family: fontAwesome;
-  color: #ee3131;
+  color: #ff352d;
   margin-right: 13px;
 }
 .check-list li:last-child {
@@ -537,7 +537,7 @@ section,
   font-family: "Dosis", sans-serif;
 }
 .breadcrumb li a {
-  color: #ee3131;
+  color: #ff352d;
 }
 .breadcrumb li:not(:last-child):after {
   content: "/";
@@ -686,7 +686,7 @@ blockquote p cite {
 .navbar-nav .nav-item .dropdown-menu li a:hover,
 .navbar-nav .nav-item .dropdown-menu li a.active {
   color: #fff;
-  background: #ee3131;
+  background: #ff352d;
 }
 @media (min-width: 992px) {
   .navbar-nav .nav-item .dropdown-menu {
@@ -754,7 +754,7 @@ blockquote p cite {
   height: 40px;
   text-align: center;
   line-height: 40px;
-  background: #ee3131;
+  background: #ff352d;
   font-size: 20px;
   color: #fff;
   -webkit-transition: all 0.3s;
@@ -795,7 +795,7 @@ blockquote p cite {
 .owl-carousel .owl-dots button.active {
   width: 14px;
   height: 14px;
-  background: #ee3131;
+  background: #ff352d;
 }
 
 .owl-carousel.owl-loaded .owl-nav .owl-next.disabled,
@@ -806,7 +806,7 @@ blockquote p cite {
 
 .btn-primary:not([disabled]):not(.disabled):active {
   color: #fff;
-  background-color: #ee3131;
+  background-color: #ff352d;
   border: 1px solid transparent;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -839,7 +839,7 @@ blockquote p cite {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 15px;
-  border: 1px solid #ee3131;
+  border: 1px solid #ff352d;
   font-family: "Dosis", sans-serif;
   position: relative;
   z-index: 2;
@@ -1054,7 +1054,7 @@ blockquote p cite {
   float: none;
 }
 .ts-feature-standard .feature-single:hover .feature-content h3 a {
-  color: #ee3131;
+  color: #ff352d;
 }
 
 .ts-feature .widget-contact {
@@ -1065,7 +1065,7 @@ blockquote p cite {
   padding: 40px 22px 40px 34px;
 }
 .ts-feature .widget-contact .contactMe > section .btn {
-  background: #ee3131;
+  background: #ff352d;
   text-align: center;
   display: block;
 }
@@ -1076,7 +1076,7 @@ blockquote p cite {
   margin-left: 15px;
   height: 55px;
   margin-right: 15px;
-  background: #ee3131;
+  background: #ff352d;
   text-align: center;
 }
 .ts-feature .contact-form-title h2.column-title {
@@ -1105,7 +1105,7 @@ blockquote p cite {
   line-height: 50px;
   border-radius: 3px;
   padding-left: 9px;
-  background: #ee3131;
+  background: #ff352d;
   margin-right: 20px;
 }
 
@@ -1161,7 +1161,7 @@ blockquote p cite {
   width: 87%;
 }
 .ts-header-classic .header-angle .navbar-light {
-  background: #ee3131;
+  background: #ff352d;
   margin-left: 55px;
   padding-right: 35px;
 }
@@ -1171,7 +1171,7 @@ blockquote p cite {
   left: -56px;
   right: auto;
   content: "";
-  border-right: 56px solid #ee3131;
+  border-right: 56px solid #ff352d;
   border-top: 60px solid transparent;
 }
 .ts-header-classic .cart-link form {
@@ -1181,7 +1181,7 @@ blockquote p cite {
 /* Header 3
 ==================================*/
 .ts-top-bar-2.standard {
-  background-color: #ee3131;
+  background-color: #ff352d;
 }
 
 .ts-header-standard .ts-logo-area {
@@ -1194,11 +1194,11 @@ blockquote p cite {
 .ts-header-standard .ts-logo-area .navbar-light .navbar-nav .nav-link.active,
 .ts-header-standard .ts-logo-area .navbar-light .navbar-nav .nav-link.show,
 .ts-header-standard .ts-logo-area .navbar-light .navbar-nav .show > .nav-link {
-  color: #ee3131;
+  color: #ff352d;
 }
 .ts-header-standard .ts-logo-area .navbar-light .navbar-nav .nav-link:focus,
 .ts-header-standard .ts-logo-area .navbar-light .navbar-nav .nav-link:hover {
-  color: #ee3131;
+  color: #ff352d;
 }
 .ts-header-standard .ts-logo-area .navbar .nav-item {
   margin-right: 20px;
@@ -1210,7 +1210,7 @@ blockquote p cite {
   color: #101010;
 }
 .ts-header-standard .ts-logo-area .navbar .nav-item .nav-link.active:after {
-  background-color: #ee3131;
+  background-color: #ff352d;
   bottom: -20px;
 }
 .ts-header-standard .ts-logo-area .navbar .cart-link form {
@@ -1244,7 +1244,7 @@ blockquote p cite {
 /* Header 4
 ==================================*/
 .ts-top-bar-standard {
-  background: #ee3131;
+  background: #ff352d;
 }
 
 .ts-header-transparent {
@@ -1264,11 +1264,11 @@ blockquote p cite {
 }
 .ts-header-transparent .navbar .nav-item .nav-link:after {
   bottom: -8px;
-  background-color: #ee3131;
+  background-color: #ff352d;
 }
 .ts-header-transparent .navbar .nav-item .nav-link.active:after {
   bottom: -8px;
-  background-color: #ee3131;
+  background-color: #ff352d;
 }
 .ts-header-transparent .ts-navbar {
   margin-right: 0px;
@@ -1280,11 +1280,11 @@ blockquote p cite {
 .ts-header-transparent .navbar-light .navbar-nav .nav-link.active,
 .ts-header-transparent .navbar-light .navbar-nav .nav-link.show,
 .ts-header-transparent .navbar-light .navbar-nav .show > .nav-link {
-  color: #ee3131;
+  color: #ff352d;
 }
 .ts-header-transparent .navbar-light .navbar-nav .nav-link:focus,
 .ts-header-transparent .navbar-light .navbar-nav .nav-link:hover {
-  color: #ee3131;
+  color: #ff352d;
 }
 
 /*  */
@@ -1458,7 +1458,7 @@ blockquote p cite {
   width: 100%;
   height: 4px;
   content: "";
-  background: #ee3131;
+  background: #ff352d;
 }
 
 .header-angle {
@@ -1473,7 +1473,7 @@ blockquote p cite {
   width: 68%;
   height: 100%;
   content: "";
-  background: #ee3131;
+  background: #ff352d;
   z-index: -1;
 }
 .header-angle:before {
@@ -1481,7 +1481,7 @@ blockquote p cite {
   top: 0;
   right: 68%;
   content: "";
-  border-right: 56px solid #ee3131;
+  border-right: 56px solid #ff352d;
   border-top: 60px solid transparent;
 }
 
@@ -1511,7 +1511,7 @@ blockquote p cite {
   font-size: 8px;
   top: -15px;
   background: #fff;
-  color: #ee3131;
+  color: #ff352d;
   width: 10px;
   height: 10px;
   display: inline-block;
@@ -1673,7 +1673,7 @@ blockquote p cite {
   text-transform: capitalize;
 }
 .slider-content h1 span {
-  color: #ee3131;
+  color: #ff352d;
 }
 .slider-content .slider-desc {
   font-size: 20px;
@@ -1711,7 +1711,7 @@ blockquote p cite {
   right: 30px;
 }
 .ts-slider-area.owl-carousel .owl-nav button:hover {
-  background: #ee3131 !important;
+  background: #ff352d !important;
 }
 
 /* Intro Area
@@ -2082,7 +2082,7 @@ blockquote p cite {
   margin-top: 28px;
 }
 .box-skew-right.bg-red {
-  background-color: #ee3131;
+  background-color: #ff352d;
 }
 .box-skew-right.bg-red .column-title {
   color: #fff;
@@ -2147,13 +2147,13 @@ blockquote p cite {
   border-color: transparent #d20022 transparent #d20022;
 }
 .working-box-wrapper .working-single-box.bg-red-light {
-  background: #ee3131;
+  background: #ff352d;
 }
 .working-box-wrapper .working-single-box.bg-red-light:before {
-  border-color: #ee3131 #ee3131 transparent;
+  border-color: #ff352d #ff352d transparent;
 }
 .working-box-wrapper .working-single-box.bg-red-light:after {
-  border-color: transparent #ee3131 transparent #ee3131;
+  border-color: transparent #ff352d transparent #ff352d;
   right: -51px;
   border-width: 125px 0 125px 51px;
 }
@@ -2261,7 +2261,7 @@ blockquote p cite {
   height: 55px;
   text-align: center;
   line-height: 55px;
-  background: #ee3131;
+  background: #ff352d;
   border-radius: 3px;
   font-size: 28px;
   color: #fff;
@@ -2302,13 +2302,13 @@ blockquote p cite {
 }
 .ts-service-wrapper:hover .service-content h3,
 .ts-service-wrapper:hover .service-content h3 > a {
-  color: #ee3131;
+  color: #ff352d;
 }
 .ts-service-wrapper:hover .readmore {
-  color: #ee3131;
+  color: #ff352d;
 }
 .ts-service-wrapper:hover .readmore i {
-  border-color: #ee3131;
+  border-color: #ff352d;
 }
 
 .service-carousel .owl-stage-outer {
@@ -2545,13 +2545,13 @@ blockquote p cite {
   color: #d20022;
 }
 .ts-latest-post:hover .post-body .readmore {
-  color: #ee3131;
+  color: #ff352d;
 }
 .ts-latest-post:hover .post-body .readmore i {
-  border-color: #ee3131;
+  border-color: #ff352d;
 }
 .ts-latest-post:hover .post-body .post-date:before {
-  border-color: #ee3131 #fff;
+  border-color: #ff352d #fff;
 }
 .ts-latest-post .post-media.post-image img {
   min-height: 230px;
@@ -2585,7 +2585,7 @@ blockquote p cite {
   right: 30px;
   width: 45px;
   height: 75px;
-  background: #ee3131;
+  background: #ff352d;
   text-align: center;
   color: #fff;
   padding-top: 2px;
@@ -2605,7 +2605,7 @@ blockquote p cite {
   position: absolute;
   bottom: 0;
   left: 0;
-  border-color: #ee3131 #f7f7f7;
+  border-color: #ff352d #f7f7f7;
   border-width: 28px 0px 0px 45px;
   border-style: solid;
   -webkit-transition: all 0.3s;
@@ -2751,7 +2751,7 @@ blockquote p cite {
   z-index: 1;
 }
 .footer-top [class*="col"]:nth-child(3) {
-  background: #ee3131;
+  background: #ff352d;
 }
 .footer-top .footer-box i {
   font-size: 36px;
@@ -2955,10 +2955,10 @@ blockquote p cite {
 }
 .ts-tab.nav-tabs .nav-link.active {
   color: #fff;
-  background: #ee3131;
+  background: #ff352d;
 }
 .ts-tab.nav-tabs .nav-link.active:after {
-  border-color: transparent transparent transparent #ee3131;
+  border-color: transparent transparent transparent #ff352d;
 }
 
 /* Team 
@@ -4231,7 +4231,7 @@ blockquote p cite {
   transition: all 0.3s;
 }
 .service-menu li a:hover {
-  background: #ee3131;
+  background: #ff352d;
   color: #fff;
 }
 
@@ -4371,11 +4371,11 @@ blockquote p cite {
   color: #101010;
 }
 .ts-pricing-table-standard .plan.plan-highlight .plan-price {
-  background: #ee3131;
+  background: #ff352d;
   color: #fff;
 }
 .ts-pricing-table-standard .plan.plan-highlight .plan-price:after {
-  border-color: #ee3131 transparent transparent;
+  border-color: #ff352d transparent transparent;
 }
 .ts-pricing-table-standard .plan.plan-highlight .plan-price span {
   color: #fff;
@@ -4439,7 +4439,7 @@ blockquote p cite {
   height: 100%;
   width: 100%;
   z-index: 9999999999;
-  background-color: #ee3131;
+  background-color: #ff352d;
   -webkit-transition: all 1s ease-in;
   transition: all 1s ease-in;
 }
